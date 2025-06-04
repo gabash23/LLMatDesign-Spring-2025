@@ -17,11 +17,3 @@ Follow the [MatDeepLearn](https://github.com/Fung-Lab/MatDeepLearn_dev) installa
 ```
 pip install -r requirements.txt
 ```
-
-Git clone this repository:
-
-```
-git clone https://github.com/Fung-Lab/LLMatDesign.git
-cd LLMatDesign
-pip install -e .
-```
